@@ -1,0 +1,2 @@
+f001|dr. iqbal|3|cs101,cs201
+f002|dr. sarah|4|math101,cs202,cs301

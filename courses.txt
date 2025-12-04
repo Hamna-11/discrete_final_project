@@ -1,0 +1,5 @@
+cs101|intro to programming|3||||40
+cs201|data structures|3|cs101|||35
+cs301|algo|4|cs201|||30
+math101|discrete|3||||50
+cs202|database|3|cs101,math101|||35

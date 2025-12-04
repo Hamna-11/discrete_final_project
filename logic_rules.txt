@@ -1,0 +1,2 @@
+if cs101_completed |can_take_cs201
+cs201 completed|can take cs301

@@ -1,0 +1,3 @@
+s001|ali hassan|3|cs101,math101|cs201,cs202
+s002|fatima|5|cs101,cs201,math101|cs301
+s003|ahmed raza|1||cs101,math101
